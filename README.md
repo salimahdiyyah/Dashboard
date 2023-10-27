@@ -1,4 +1,4 @@
-# E-Commerce Public Dashboard :sparkles: Dashboard
+# E-Commerce Public Dashboard :sparkles:
 
 ## Setup environment
 ```
