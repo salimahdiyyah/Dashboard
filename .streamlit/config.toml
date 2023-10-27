@@ -1,5 +1,0 @@
-your-repository/
-├── .streamlit/
-│   └── config.toml
-├── dashboard.py
-└── requirements.txt
