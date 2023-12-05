@@ -62,7 +62,7 @@ def create_rfm_df(df):
 
     return rfm_df
 
-all_df = pd.read_csv("C:\\Users\\USER\\latihanpy\\Dashboard\\merge_data.csv")
+all_df = pd.read_csv("merge_data.csv")
 
 datetime_columns = ["order_purchase_timestamp", "order_estimated_delivery_date"]
 all_df.sort_values(by="order_purchase_timestamp", inplace=True)
